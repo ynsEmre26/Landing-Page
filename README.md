@@ -1,7 +1,7 @@
 # 🐾 Pet Food Landing Page
 
 This project is a **Landing Page** designed for selling **cat, dog, and bird food products**.  
-The website is built to be clean, simple, and user-friendly with a focus on product presentation and easy navigation.
+The website is built to be clean, simple, and user-friendly with a focus on product presentation and easy navigation. Responsive!
 
 ---
 
