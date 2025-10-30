@@ -38,6 +38,7 @@ pet-food-landing-page/
 ## images
 
 ![Landing Page Preview](img/About-category-section.jpeg)
+
 ![Landing Page Preview](img/product-section.jpeg)
 
 ---
